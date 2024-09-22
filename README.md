@@ -1,2 +1,2 @@
-# ClinicaMedica
+# TabelaLogica
 Trabalho do macedo oooo
